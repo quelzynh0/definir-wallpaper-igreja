@@ -12,4 +12,4 @@ Um script que define o wallpaper do computador da igreja de acordo com dia da se
 
 ![Definir imagens](https://raw.githubusercontent.com/quelzynh0/definir-wallpaper-igreja/main/src/print_01.png)
 
-![Configurações](hhttps://raw.githubusercontent.com/quelzynh0/definir-wallpaper-igreja/main/src/print_02.png)
+![Configurações](https://raw.githubusercontent.com/quelzynh0/definir-wallpaper-igreja/main/src/print_02.png)
